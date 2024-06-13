@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "316621459963",
+    "project_id": "justus-messagingapps",
+    "storage_bucket": "justus-messagingapps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316621459963:android:2c0625eb20a5a22e87fb5e",
+        "android_client_info": {
+          "package_name": "com.example.justus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa4nSLq9sxVuGw2WJsNTpy8la-3foNtv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
